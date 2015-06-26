@@ -1,0 +1,9 @@
+2015-06-26 15:12:27.609 NewsworthyMVP[2691:191786] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/admin/Library/Developer/CoreSimulator/Devices/5323F6B2-9253-4F46-94D2-02B1D4C3CC41/data/Containers/Data/Application/2D763983-A527-478B-8B45-CECD611B89C3/Library/Cookies/Cookies.binarycookies
+2015-06-26 15:12:27.945 NewsworthyMVP[2691:191786] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 15:12:27.945 NewsworthyMVP[2691:191786] Multi-tasking -> Device: YES, App: YES
+2015-06-26 15:12:27.957 NewsworthyMVP[2691:191786] Unlimited access to network resources
+2015-06-26 15:12:28.315 NewsworthyMVP[2691:191786] [CDVTimer][keyboard] 0.068009ms
+2015-06-26 15:12:28.486 NewsworthyMVP[2691:191786] [CDVTimer][splashscreen] 170.813978ms
+2015-06-26 15:12:28.487 NewsworthyMVP[2691:191786] [CDVTimer][TotalPluginStartup] 171.970010ms
+2015-06-26 15:12:28.774 NewsworthyMVP[2691:191786] Resetting plugins due to page load.
+2015-06-26 15:12:29.028 NewsworthyMVP[2691:191786] Finished load of: file:///Users/admin/Library/Developer/CoreSimulator/Devices/5323F6B2-9253-4F46-94D2-02B1D4C3CC41/data/Containers/Bundle/Application/AA79A7E2-9FE3-4732-93DB-3B6F056007DB/NewsworthyMVP.app/www/index.html#/tab/dash
